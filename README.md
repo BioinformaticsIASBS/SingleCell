@@ -16,6 +16,4 @@ This repository includes relevant articles we intend to read:
 }
 ```
 
-- [ ]
-- [ ]
-- [ ]
+...
