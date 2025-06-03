@@ -31,6 +31,18 @@ This repository includes relevant articles we intend to read:
 }
 ```
 
+- [X] "DIME-FM : DIstilling Multimodal and Efficient Foundation Models"
+
+```bibtex
+@inproceedings{sun2023dime,
+  title={Dime-fm: Distilling multimodal and efficient foundation models},
+  author={Sun, Ximeng and Zhang, Pengchuan and Zhang, Peizhao and Shah, Hardik and Saenko, Kate and Xia, Xide},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={15521--15533},
+  year={2023}
+}
+```
+
 - [ ] "scGPT: toward building a foundation model for single-cell multi-omics using generative AI"
 
 ```bibtex
