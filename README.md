@@ -31,6 +31,21 @@ This repository includes relevant articles we intend to read:
 }
 ```
 
+- [ ] "scGPT: toward building a foundation model for single-cell multi-omics using generative AI"
+
+```bibtex
+@article{cui2024scgpt,
+  title={scGPT: toward building a foundation model for single-cell multi-omics using generative AI},
+  author={Cui, Haotian and Wang, Chloe and Maan, Hassaan and Pang, Kuan and Luo, Fengning and Duan, Nan and Wang, Bo},
+  journal={Nature Methods},
+  volume={21},
+  number={8},
+  pages={1470--1480},
+  year={2024},
+  publisher={Nature Publishing Group US New York}
+}
+```
+
 - [ ]  "Reconstructing growth and dynamic trajectories from single-cell transcriptomics data"
 
 ```bibtex
