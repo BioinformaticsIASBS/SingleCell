@@ -16,7 +16,7 @@ This repository includes relevant articles we intend to read:
 }
 ```
 
-- [ ] "Large-scale foundation model on single-cell transcriptomics"
+- [X] "Large-scale foundation model on single-cell transcriptomics"
 
 ```bibtex
 @article{hao2024large,
