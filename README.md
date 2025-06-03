@@ -31,7 +31,7 @@ This repository includes relevant articles we intend to read:
 }
 ```
 
-- [X] "DIME-FM : DIstilling Multimodal and Efficient Foundation Models"
+- [ ] "DIME-FM : DIstilling Multimodal and Efficient Foundation Models"
 
 ```bibtex
 @inproceedings{sun2023dime,
@@ -55,6 +55,18 @@ This repository includes relevant articles we intend to read:
   pages={1470--1480},
   year={2024},
   publisher={Nature Publishing Group US New York}
+}
+```
+
+- [ ] "Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application"
+
+```bibtex
+@article{yang2024survey,
+  title={Survey on knowledge distillation for large language models: methods, evaluation, and application},
+  author={Yang, Chuanpeng and Zhu, Yao and Lu, Wang and Wang, Yidong and Chen, Qian and Gao, Chenlong and Yan, Bingjie and Chen, Yiqiang},
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  year={2024},
+  publisher={ACM New York, NY}
 }
 ```
 
